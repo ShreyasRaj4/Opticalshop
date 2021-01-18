@@ -1,3 +1,6 @@
+### Lab Task - 1
+### Tic-Tae-Toe
+
 Algorithm 1: (Simple brute force approach)
 Concept: 
 It consists of a dictionary in which all the possible 3^9 board positions and the next best possible move which can be made by the computer either to win or to stop the user from winning keeping in mind that particular board position is thought of. 
